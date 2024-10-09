@@ -2,6 +2,8 @@
 
 Proyek ini adalah aplikasi **Content Management System (CMS)** sederhana untuk mengelola produk menggunakan PHP dan SQLite. Aplikasi ini memungkinkan pengguna untuk menambah, mengedit, dan menghapus produk serta melihat daftar produk yang tersimpan di database.
 
+<img src="Screenshot_2.png">
+
 ## Fitur
 
 - Menambahkan produk baru ke dalam sistem.
